@@ -26,7 +26,7 @@ Catch a glimpse of the application in action:
 
 Experience the quiz yourself!
 
-[Live Demo Link](link-to-your-live-demo-deployment)
+[Live Demo Link](https://moontags.github.io/CodingQuizApp/)
 
 
 ## Technologies Used
@@ -50,16 +50,15 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/YourQuizAppRepo.git](https://github.com/YourUsername/YourQuizAppRepo.git)
-    ```
-    *(**Note:** Replace `https://github.com/YourUsername/YourQuizAppRepo.git` with the actual URL of your GitHub repository.)*
-2.  **Navigate to the project directory:**
+    git clone [https://github.com/Moontags/CodingQuizApp.git](https://github.com/Moontags/CodingQuizApp.git)
+   
+1.  **Navigate to the project directory:**
     ```bash
     cd YourQuizAppRepo
     ```
-3.  **Open `index.html`:**
+2.  **Open `index.html`:**
     Simply open the `index.html` file in your web browser.
-4.  **Add your QuizAPI Key:**
+3.  **Add your QuizAPI Key:**
     Open `app.js` and locate the line:
     ```javascript
     const QUIZAPI_KEY = "YOUR_QUIZAPI_KEY";
