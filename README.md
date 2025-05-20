@@ -17,7 +17,7 @@ A simple yet engaging web-based quiz application built with HTML, CSS, and JavaS
 
 Catch a glimpse of the application in action:
 
-| Desktop View | Mobile View |
+| Question View | Score View |
 | :----------: | :---------: |
 | ![Desktop View of Quiz App](images/quiz2.png) | ![Score](images/quiz.png) |
 
@@ -77,14 +77,6 @@ The application should now be running in your browser!
 5.  Proceed through the questions until the quiz is finished.
 6.  Your final score will be displayed.
 7.  Click the "Restart Quiz" button to play again with new questions.
-
-## Project Structure
-
-.
-├── index.html
-├── styles/
-│   └── app.css
-└── app.js
 
 ## Contributing
 
